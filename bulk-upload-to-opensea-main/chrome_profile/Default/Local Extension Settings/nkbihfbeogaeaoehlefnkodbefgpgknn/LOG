@@ -1,0 +1,18 @@
+2022/02/11-11:30:42.077 1f5c Reusing MANIFEST C:\Users\dlxog\git\python\bulk-upload-to-opensea-main\chrome_profile\Default\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2022/02/11-11:30:42.079 1f5c Recovering log #139
+2022/02/11-11:30:42.100 1f5c Reusing old log C:\Users\dlxog\git\python\bulk-upload-to-opensea-main\chrome_profile\Default\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/000139.log 
+2022/02/11-11:30:52.516 910 Level-0 table #143: started
+2022/02/11-11:30:52.596 910 Level-0 table #143: 1273317 bytes OK
+2022/02/11-11:30:52.607 910 Delete type=0 #139
+2022/02/11-11:52:04.849 1eac Level-0 table #145: started
+2022/02/11-11:52:04.868 1eac Level-0 table #145: 1263531 bytes OK
+2022/02/11-11:52:04.871 1eac Delete type=0 #142
+2022/02/11-11:52:04.873 51c Compacting 4@0 + 1@1 files
+2022/02/11-11:52:04.897 51c Generated table #146@0: 1 keys, 45222 bytes
+2022/02/11-11:52:04.897 51c Compacted 4@0 + 1@1 files => 45222 bytes
+2022/02/11-11:52:04.898 51c compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/02/11-11:52:04.899 51c Delete type=2 #136
+2022/02/11-11:52:04.899 51c Delete type=2 #138
+2022/02/11-11:52:04.899 51c Delete type=2 #140
+2022/02/11-11:52:04.899 51c Delete type=2 #143
+2022/02/11-11:52:04.899 51c Delete type=2 #145

@@ -1,0 +1,35 @@
+{
+  "name": "Whose Cat #1",
+  "description": "This is Whose Cat NFT Collaction made by hoon",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "52364e31c571fb3a8583e23ffbcb0a03139dd164",
+  "edition": 1,
+  "date": 1644132976934,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "4"
+    },
+    {
+      "trait_type": "body",
+      "value": "5"
+    },
+    {
+      "trait_type": "eye",
+      "value": "2"
+    },
+    {
+      "trait_type": "forehead",
+      "value": "1"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
